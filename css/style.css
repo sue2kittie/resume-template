@@ -1,0 +1,7 @@
+.img-rounded {
+    border-radius: 100px;
+}
+.text-white, .text-white a, .text-white a.active, .text-white a:active,
+.text-white a:focus, .text-white a:hover{
+	color: white;
+}
